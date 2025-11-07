@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Telecare Template</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <img src="images/logo.png" alt="Telecare Logo" class="logo">
+      <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Professional Telecare Services</h1>
+      <p>Empowering healthcare through technology and expert care solutions.</p>
+      <a href="#" class="btn">Learn More</a>
+    </div>
+  </section>
+
+  <section class="features container">
+    <div class="feature">
+      <h2>Quality Care</h2>
+      <p>Delivering consistent, professional, and compassionate telemedicine services.</p>
+    </div>
+    <div class="feature">
+      <h2>Technology Driven</h2>
+      <p>We utilize modern platforms for seamless healthcare experiences.</p>
+    </div>
+    <div class="feature">
+      <h2>24/7 Support</h2>
+      <p>Always available when patients and providers need us most.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Telecare Template. All rights reserved.</p>
+  </footer>
+</body>
+</html>
